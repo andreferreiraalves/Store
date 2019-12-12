@@ -106,7 +106,7 @@ namespace Store.Tests.Domain
         [TestMethod]
         [TestCategory("Domain")]
         public void Dado_uma_taxa_de_entrega_de_10_o_valor_do_pedido_deve_ser_60()
-        {
+        { 
             var order = new Order(_customer, 10, null);
             order.AddItem(_product, 5);
             Assert.AreEqual(order.Total(), 60);
