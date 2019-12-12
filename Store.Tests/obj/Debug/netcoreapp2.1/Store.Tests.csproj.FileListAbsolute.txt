@@ -1,0 +1,17 @@
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Store.Tests.deps.json
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Store.Tests.runtimeconfig.json
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Store.Tests.runtimeconfig.dev.json
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Store.Tests.dll
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Store.Tests.pdb
+/Users/andreferreira/projects/balta/Store/Store.Tests/obj/Debug/netcoreapp2.1/Store.Tests.csprojAssemblyReference.cache
+/Users/andreferreira/projects/balta/Store/Store.Tests/obj/Debug/netcoreapp2.1/Store.Tests.csproj.CoreCompileInputs.cache
+/Users/andreferreira/projects/balta/Store/Store.Tests/obj/Debug/netcoreapp2.1/Store.Tests.AssemblyInfoInputs.cache
+/Users/andreferreira/projects/balta/Store/Store.Tests/obj/Debug/netcoreapp2.1/Store.Tests.AssemblyInfo.cs
+/Users/andreferreira/projects/balta/Store/Store.Tests/obj/Debug/netcoreapp2.1/Store.Tests.dll
+/Users/andreferreira/projects/balta/Store/Store.Tests/obj/Debug/netcoreapp2.1/Store.Tests.pdb
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Store.Domain.dll
+/Users/andreferreira/projects/balta/Store/Store.Tests/bin/Debug/netcoreapp2.1/Store.Domain.pdb
+/Users/andreferreira/projects/balta/Store/Store.Tests/obj/Debug/netcoreapp2.1/Store.Tests.csproj.CopyComplete
